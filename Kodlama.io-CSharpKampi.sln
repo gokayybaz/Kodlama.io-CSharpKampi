@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DortIslem-CSharpTemelleri2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler-CSharpTemelleri2", "DegerVeReferansTipler-CSharpTemelleri2\DegerVeReferansTipler-CSharpTemelleri2.csproj", "{D68416DE-31D5-4388-834C-3D35CF5F97B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo-CSharpTemelleri2Odev", "ClassMetotDemo\ClassMetotDemo-CSharpTemelleri2Odev.csproj", "{E24BF444-BE9A-4A0D-ACD9-66B7FBF37E35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D68416DE-31D5-4388-834C-3D35CF5F97B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D68416DE-31D5-4388-834C-3D35CF5F97B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D68416DE-31D5-4388-834C-3D35CF5F97B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24BF444-BE9A-4A0D-ACD9-66B7FBF37E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24BF444-BE9A-4A0D-ACD9-66B7FBF37E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24BF444-BE9A-4A0D-ACD9-66B7FBF37E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24BF444-BE9A-4A0D-ACD9-66B7FBF37E35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
